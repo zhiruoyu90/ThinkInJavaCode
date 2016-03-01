@@ -1,0 +1,10 @@
+package typeinfo.pets;
+
+/**
+ * Created by Administrator on 2016/3/1.
+ */
+public class Person extends Individual {
+    public Person(String name) {
+        super(name);
+    }
+}
